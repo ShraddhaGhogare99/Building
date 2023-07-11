@@ -1,8 +1,8 @@
 package Inheritance;
 
-class Maharashtra {
+public class India {
 
-    void Pune()
+        void Pune()
     {
         System.out.println("Pune Tithe Ky Une");
 
@@ -12,9 +12,6 @@ class Maharashtra {
     {
         System.out.println("Dream City");
     }
-}
-
-public class India extends Maharashtra{
 
     public static void main(String[] args) {
         India ref=new India();
